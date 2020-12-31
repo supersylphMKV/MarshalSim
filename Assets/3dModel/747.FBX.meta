@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 3717d1961db396b4692c6cc07dbc567c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B747abya
+    100004: B747bird
+    100006: B747blck
+    100008: B747boin
+    100010: B747cpit
+    100012: B747fram
+    100014: B747glas
+    100016: B747grek
+    100018: B747grey
+    100020: B747line
+    100022: B747luft
+    100024: B747mark
+    100026: B747side
+    100028: B747silv
+    100030: B747taiB
+    100032: B747tail
+    100034: B747whit
+    400000: //RootNode
+    400002: B747abya
+    400004: B747bird
+    400006: B747blck
+    400008: B747boin
+    400010: B747cpit
+    400012: B747fram
+    400014: B747glas
+    400016: B747grek
+    400018: B747grey
+    400020: B747line
+    400022: B747luft
+    400024: B747mark
+    400026: B747side
+    400028: B747silv
+    400030: B747taiB
+    400032: B747tail
+    400034: B747whit
+    2100000: B747abya
+    2100002: B747bird
+    2100004: B747blck
+    2100006: B747boin
+    2100008: B747cpit
+    2100010: B747fram
+    2100012: B747glas
+    2100014: B747grey
+    2100016: B747silv
+    2100018: B747line
+    2100020: B747luft
+    2100022: B747mark
+    2100024: B747side
+    2100026: B747taiB
+    2100028: B747tail
+    2100030: B747whit
+    2300000: B747abya
+    2300002: B747bird
+    2300004: B747blck
+    2300006: B747boin
+    2300008: B747cpit
+    2300010: B747fram
+    2300012: B747glas
+    2300014: B747grek
+    2300016: B747grey
+    2300018: B747line
+    2300020: B747luft
+    2300022: B747mark
+    2300024: B747side
+    2300026: B747silv
+    2300028: B747taiB
+    2300030: B747tail
+    2300032: B747whit
+    3300000: B747abya
+    3300002: B747bird
+    3300004: B747blck
+    3300006: B747boin
+    3300008: B747cpit
+    3300010: B747fram
+    3300012: B747glas
+    3300014: B747grek
+    3300016: B747grey
+    3300018: B747line
+    3300020: B747luft
+    3300022: B747mark
+    3300024: B747side
+    3300026: B747silv
+    3300028: B747taiB
+    3300030: B747tail
+    3300032: B747whit
+    4300000: B747abya
+    4300002: B747bird
+    4300004: B747blck
+    4300006: B747boin
+    4300008: B747cpit
+    4300010: B747fram
+    4300012: B747glas
+    4300014: B747grek
+    4300016: B747grey
+    4300018: B747line
+    4300020: B747luft
+    4300022: B747mark
+    4300024: B747side
+    4300026: B747silv
+    4300028: B747taiB
+    4300030: B747tail
+    4300032: B747whit
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
